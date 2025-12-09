@@ -36,7 +36,9 @@ Todos os scripts seguem boas práticas e são documentados para uso seguro em am
 
 ## Estrutura do projeto
 
-Os scripts serão organizados conforme sua função e complexidade:
+Os scripts estão organizados conforme os capítulos e as seções do livro.
+
+Para os 50 scripts adicionais, eles estão agrupados por tema
 
 | Módulo | Tema |
 |--------|-------|
