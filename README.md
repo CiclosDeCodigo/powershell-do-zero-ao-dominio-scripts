@@ -1,6 +1,6 @@
 # PowerShell — Do Zero ao Domínio  
 Repositório oficial de scripts, exercícios e automações  
-por **Ciclos de Código — Rodrigo Colombo**
+por **Ciclos de Código — Rodrigo Minerva Colombo**
 
 ---
 
@@ -9,13 +9,6 @@ por **Ciclos de Código — Rodrigo Colombo**
 Rodrigo Minerva Colombo  
 GitHub: https://github.com/CiclosDeCodigo  
 Linkedin: https://www.linkedin.com/in/rodrigo-minerva-colombo-65649932  
-
----
-
-## Licença
-
-Este repositório está licenciado sob a **MIT License**.  
-Consulte o arquivo `LICENSE` para os termos completos.
 
 ---
 
