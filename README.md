@@ -14,7 +14,7 @@ LinkedIn: https://www.linkedin.com/in/rodrigo-minerva-colombo-65649932
 
 Este repositório acompanha o livro **PowerShell — Do Zero ao Domínio**.
 
-📘 Disponível na Amazon:https://a.co/d/0jfj9Mi2
+📘 Disponível na Amazon: https://www.amazon.com.br/dp/B0G8TGDTL5  
 ---
 
 ## Sobre este repositório
