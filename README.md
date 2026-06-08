@@ -10,6 +10,11 @@ Rodrigo Minerva Colombo
 GitHub: https://github.com/CiclosDeCodigo  
 Linkedin: https://www.linkedin.com/in/rodrigo-minerva-colombo-65649932  
 
+## Livro
+
+Este repositório acompanha o livro **PowerShell — Do Zero ao Domínio**.
+
+📘 Disponível na Amazon:https://a.co/d/0jfj9Mi2
 ---
 
 ## Sobre este repositório
