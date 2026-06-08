@@ -8,7 +8,7 @@ por **Ciclos de Código — Rodrigo Minerva Colombo**
 
 Rodrigo Minerva Colombo  
 GitHub: https://github.com/CiclosDeCodigo  
-Linkedin: https://www.linkedin.com/in/rodrigo-minerva-colombo-65649932  
+LinkedIn: https://www.linkedin.com/in/rodrigo-minerva-colombo-65649932  
 
 ## Livro
 
